@@ -1,0 +1,5 @@
+{
+  "seed": 123456789,
+  "item_ids": [90, 96, 98, 136, 406, 664, 732, 815, 1433, 1622],
+  "note": "Paper target IDs only. Run select_targets.py to reselect and replace this file."
+}
